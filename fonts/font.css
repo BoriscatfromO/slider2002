@@ -1,0 +1,30 @@
+/*h2*/
+@font-face {
+    font-family: "YesevaOne-Regular";
+    font-style: normal;
+    font-weight: 14px;
+    src: local("YesevaOne-Regular"),
+             url("YesevaOne-Regular.woff") format("woff")
+  }
+  @font-face {
+    font-family: "NunitoSans_10pt-Regular";
+    font-style: normal;
+    font-weight: 14px;
+    src: local("NunitoSans_10pt-Regular"),
+             url("NunitoSans_10pt-Regular.woff") format("woff")
+  }
+  @font-face {
+    font-family: "NunitoSans_10pt-Medium";
+    font-style: normal;
+    font-weight: 14px;
+    src: local("YNunitoSans_10pt-Medium"),
+             url("NunitoSans_10pt-Medium.woff") format("woff")
+  }
+  @font-face {
+    font-family: "NunitoSans_10pt-Light";
+    font-style: normal;
+    font-weight: 14px;
+    src: local("NunitoSans_10pt-Light"),
+             url("NunitoSans_10pt-Light.woff") format("woff")
+  }
+ 
